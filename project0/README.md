@@ -1,2 +1,1 @@
-# new project
-local systum project
+this is project 0
